@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BIzzMovies</string>
+    <string name="network_error">No internet connection, please connect your phone to wifi or data connection.</string>
+    <string name="ok">Ok</string>
+</resources>
